@@ -1,18 +1,4 @@
-<h1 align="center">Howdy 👋 partner!</h1>
-
-###
-
-<h2 align="left">My name is Venedykt and I know I know nothing.</h2>
-
-###
-
-<h4 align="left">About me</h4>
-
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Web Development<br>🎯 Goals: 1 million dollars and nobody disturb me after<br>🎲 Fun fact: I'm funny. Seriously.</p>
-
-###
+<h2 align="left">Hi! My name is Venedykt and I know I know nothing.</h2>
 
 <h5 align="left">I code with</h5>
 
