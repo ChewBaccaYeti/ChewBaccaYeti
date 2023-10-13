@@ -1,5 +1,3 @@
-<h2 align="left">Hi! My name is Venedykt and I know I know nothing.</h2>
-
 <h5 align="left">I code with</h5>
 
 ###
