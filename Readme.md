@@ -4,6 +4,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/39xxlDjGAtwSzaFHT8/giphy.gif?cid=ecf05e47o3v3ium3p0iwk68yx6i6l5z0jqkcixl5oazwumlc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -11,12 +17,6 @@
   <img src="https://streak-stats.demolab.com?user=ChewBaccaYeti&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChewBaccaYeti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChewBaccaYeti&theme=tokyo-night&area=false&radius=16" height="200" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/39xxlDjGAtwSzaFHT8/giphy.gif?cid=ecf05e47o3v3ium3p0iwk68yx6i6l5z0jqkcixl5oazwumlc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -118,11 +118,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ChewBaccaYeti/ChewBaccaYeti/output/snake.svg" alt="Snake animation" />
 
 ###
