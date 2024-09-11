@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hello there</h2>
+<h2 align="center">Hello world!</h2>
 
 ###
 
