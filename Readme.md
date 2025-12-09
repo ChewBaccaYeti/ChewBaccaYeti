@@ -98,4 +98,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="60" alt="yarn logo"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChewBaccaYeti/ChewBaccaYeti/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChewBaccaYeti/ChewBaccaYeti/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChewBaccaYeti/ChewBaccaYeti/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
