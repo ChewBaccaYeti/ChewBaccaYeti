@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.profile_metrics }},
+          token: ${{ secrets.PROFILE_METRICS }},
           config_timezone: Europe/Berlin,
           base: header
           plugin_isocalendar: yes
